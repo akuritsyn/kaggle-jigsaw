@@ -4,4 +4,4 @@
 
 ### Built a ML model using an ensemble of [BERT](http://jalammar.github.io/illustrated-bert/) (large and small) and LSTM-based language models with different loss functions to identify toxicity in online conversations, where toxicity is defined as anything rude, disrespectful or otherwise likely to make someone leave a discussion. 
 
-Computed 4 folds for each of the five models and final inference had to be done in Kaggle kernel in under 2 hours according to the competiton rules.
+### Computed 4 folds for each of the five models and final inference had to be done in Kaggle kernel in under 2 hours according to the competiton rules.
